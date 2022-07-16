@@ -7,9 +7,12 @@
 
 <style lang="css">
     .banner {
+        width: 1188px;
         height: 334px;
         background: rgb(225,225,225);
         margin-top: 30px;
+        margin-left: auto;
+        margin-right: auto;
     }
     .text {
         width: 200px;

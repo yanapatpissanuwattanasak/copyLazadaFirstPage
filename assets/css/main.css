@@ -5,6 +5,7 @@
     height: auto;
     background: rgb(255,255,255);
     display: row;
+
 }
 .div {
     min-width: 1188px;
@@ -12,13 +13,19 @@
     height: auto;
     background: rgb(255, 255, 255);
     display: block;
+    justify-items: center;
+    align-items: center;
 }
 
 .header {
     width: 1188px;
     min-width: 1188px;
+    margin: 0 auto;
+    min-width: 1188px;
+    justify-items: center;
+    align-items: center;
     height: 75px;
-    background: rgb(255,255,255);
-    display: inline-flex;
+    background: rgb(255, 255, 255);
+    display: flex;
 }
 

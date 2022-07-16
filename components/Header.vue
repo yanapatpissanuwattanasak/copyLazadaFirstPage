@@ -17,6 +17,8 @@
         margin-top: auto;
         margin-bottom: auto;
         display: flex;
+        align-items: center;
+        justify-items: center;
         background: rgb(211, 210, 210);
     }
     .search-bar {

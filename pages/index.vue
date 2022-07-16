@@ -1,7 +1,7 @@
 <template>
 <div class ="div">
+  <div class = "div-header-ads"></div>
   <div class = "div-default">
-    <div class = "div-header-ads"></div>
     <Header></Header>
     <Banner></Banner>
     
