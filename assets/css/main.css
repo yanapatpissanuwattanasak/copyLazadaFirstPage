@@ -1,0 +1,24 @@
+.div-default {
+    width: 1188px;
+    min-width: 1188px;
+    margin: 0 auto;
+    height: auto;
+    background: rgb(255,255,255);
+    display: row;
+}
+.div {
+    min-width: 1188px;
+    margin: 0 auto;
+    height: auto;
+    background: rgb(255, 255, 255);
+    display: block;
+}
+
+.header {
+    width: 1188px;
+    min-width: 1188px;
+    height: 75px;
+    background: rgb(255,255,255);
+    display: inline-flex;
+}
+
